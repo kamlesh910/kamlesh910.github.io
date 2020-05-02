@@ -18,12 +18,12 @@ p {
 }
 
 #left {
-    width: 25%;
+    width: 10%;
     background-color: gray;
 }
 
 #right {
-    width: 75%;
+    width: 90%;
     background-color: gray;
 }
 
