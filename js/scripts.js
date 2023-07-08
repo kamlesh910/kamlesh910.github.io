@@ -88,3 +88,8 @@ function toggleTheme() {
       document.getElementById('slider').checked = true;
     }
 })();
+
+function scrollToTop(){
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+  
